@@ -1,5 +1,5 @@
 
-![Tux, the Linux mascot](https://th.bing.com/th/id/OIP.Ios6gUmiMmXfEQy1ztU5YQHaEP?pid=ImgDet&rs=1)
+<p align="center"> <img width="300" height="300" src="https://th.bing.com/th/id/OIP.Ios6gUmiMmXfEQy1ztU5YQHaEP?pid=ImgDet&rs=1" > </p>
 
 # React Course Assignments
 
@@ -7,6 +7,8 @@ This repository contains all the assignments done while taking a react course on
 
 ## Technology and Tools
 
-![https://www.w3schools.com/css/](https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg) ![https://reactjs.org/](https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg) ![https://developer.mozilla.org/en-US/docs/Web/JavaScript](https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg) ![https://www.w3.org/html/](https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg) ![https://tailwindcss.com/](https://th.bing.com/th/id/OIP.5QD8DKhOjRe-gcYjozlLNQHaHa?pid=ImgDet&rs=1)
-
+ ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)   
+![React](https://img.shields.io/badge/react-%231572B6.svg?style=for-the-badge&logo=react&logoColor=white) 
+![Git](https://img.shields.io/badge/git-%23121011.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
+  
 
