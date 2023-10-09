@@ -24,7 +24,7 @@ const AddUserForm = (props) => {
 
   const addUserHandler = (e) => {
     e.preventDefault();
-    if (userInput.name === "" && userInput.age === "") {
+    if (userInput.name.trim() === "" && userInput.age === "") {
       return setEmptyError((prevError) => !prevError);
     }
     if (+userInput.age < 0) {
